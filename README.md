@@ -12,3 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,rust,go,aws,gcp,bash,docker,fastapi,firebase,git,obsidian,cypress,githubactions,htmx,postgres,rabbitmq,redis,terraform,ts,zig)](https://skillicons.dev)
 
 <a href="https://gitroll.io/profile/uB8fjxzB4NHUkjkK1pggNJbWLqz93" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uB8fjxzB4NHUkjkK1pggNJbWLqz93" alt="GitRoll Profile Badge"/></a>
+<audio controls>
+  <source src="gh_push.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
