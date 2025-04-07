@@ -1,7 +1,7 @@
 # 🧙‍♂️ CopyleftDev: Keeper of the Kernel, Lord of the Loops, Sultan of Swag
 
-[![copyleftdev GitHub stats](https://github-readme-stats.vercel.app/api?username=copyleftdev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/copleftdev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copyleftdev&layout=compact&theme=tokyonight)](https://github.com/copleftdev)
+[![copyleftdev GitHub stats](https://github-readme-stats.vercel.app/api?username=copyleftdev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/copyleftdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copyleftdev&layout=compact&theme=tokyonight)](https://github.com/copyleftdev)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=copyleftdev&theme=tokyonight)](https://github.com/copleftdev)
 
 ---
@@ -20,7 +20,9 @@
 
 ## 🧢 Developer Swag: Verified Legendary
 
-<a href="https://gitroll.io/profile/uB8fjxzB4NHUkjkK1pggNJbWLqz93" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uB8fjxzB4NHUkjkK1pggNJbWLqz93" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uB8fjxzB4NHUkjkK1pggNJbWLqz93" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/uB8fjxzB4NHUkjkK1pggNJbWLqz93" alt="GitRoll Profile Badge"/>
+</a>
 
 ---
 
