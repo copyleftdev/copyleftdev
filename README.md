@@ -1,7 +1,7 @@
 # 🧙‍♂️ CopyleftDev: Keeper of the Kernel, Lord of the Loops, Sultan of Swag
 
 [![copyleftdev GitHub stats](https://github-readme-stats.vercel.app/api?username=copyleftdev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/copyleftdev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copyleftdev&layout=compact&theme=tokyonight)](https://github.com/copyleftdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copyleftdev&layout=compact&theme=tokyonight)](https://github.com/copleftdev)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=copyleftdev&theme=tokyonight)](https://github.com/copleftdev)
 
 ---
@@ -71,6 +71,102 @@
 ![Pythonista](https://img.shields.io/badge/Pythonista-🐍-yellow)
 ![FastAPI Evangelist](https://img.shields.io/badge/FastAPI-Jedi-green)
 ![Obsidian Cultist](https://img.shields.io/badge/Obsidian-Vaulted-purple)
+
+---
+
+## 🎭 Theatrical Badges
+
+![Drama Queen](https://img.shields.io/badge/Drama-Queen-purple)
+![Code Whisperer](https://img.shields.io/badge/Code-Whisperer-blue)
+![Merge Conflict Survivor](https://img.shields.io/badge/Merge%20Conflict-Survivor-red)
+
+---
+
+## 🍔 Foodie Badges
+
+![Coffee Addict](https://img.shields.io/badge/Coffee-Addict-brown)
+![Pizza Powered](https://img.shields.io/badge/Pizza-Powered-orange)
+![Snack Overflow](https://img.shields.io/badge/Snack-Overflow-yellow)
+
+---
+
+## 🕹️ Gaming Badges
+
+![AFK](https://img.shields.io/badge/AFK-%F0%9F%9A%A7-red)
+![Respawn Ready](https://img.shields.io/badge/Respawn-Ready-green)
+![Level Up!](https://img.shields.io/badge/Level-Up!-blue)
+
+---
+
+## 🛠️ Tool Appreciation Badges
+
+![Stack Overflow Enthusiast](https://img.shields.io/badge/Stack%20Overflow-Enthusiast-orange)
+![VS Code Ninja](https://img.shields.io/badge/VS%20Code-Ninja-blue)
+![Terminal Tamer](https://img.shields.io/badge/Terminal-Tamer-black)
+
+---
+
+## 🧙‍♂️ Wizardry Badges
+
+![Regex Wizard](https://img.shields.io/badge/Regex-Wizard-purple)
+![Git Gandalf](https://img.shields.io/badge/Git-Gandalf-gray)
+![Shell Sorcerer](https://img.shields.io/badge/Shell-Sorcerer-green)
+
+---
+
+## 🐱 Cat Lover Badges
+
+![Cat Coder](https://img.shields.io/badge/Cat-Coder-yellow)
+![Purrgrammer](https://img.shields.io/badge/Purrgrammer-orange)
+![Meowster of Code](https://img.shields.io/badge/Meowster%20of%20Code-pink)
+
+---
+
+## 🎨 Artsy Badges
+
+![Pixel Picasso](https://img.shields.io/badge/Pixel-Picasso-red)
+![ASCII Artist](https://img.shields.io/badge/ASCII-Artist-blue)
+![UI/UX Unicorn](https://img.shields.io/badge/UI%2FUX-Unicorn-purple)
+
+---
+
+## 🚀 Productivity Badges
+
+![Night Owl](https://img.shields.io/badge/Night-Owl-black)
+![Early Bird](https://img.shields.io/badge/Early-Bird-yellow)
+![Code Sprinter](https://img.shields.io/badge/Code-Sprinter-green)
+
+---
+
+## 🤖 AI & Machine Learning Badges
+
+![TensorFlow Titan](https://img.shields.io/badge/TensorFlow-Titan-orange)
+![PyTorch Pro](https://img.shields.io/badge/PyTorch-Pro-red)
+![AI Alchemist](https://img.shields.io/badge/AI-Alchemist-blue)
+
+---
+
+## 🌐 Web Development Badges
+
+![HTML Hero](https://img.shields.io/badge/HTML-Hero-orange)
+![CSS Connoisseur](https://img.shields.io/badge/CSS-Connoisseur-blue)
+![JavaScript Jedi](https://img.shields.io/badge/JavaScript-Jedi-yellow)
+
+---
+
+## 🛡️ Security Badges
+
+![Bug Bounty Hunter](https://img.shields.io/badge/Bug%20Bounty-Hunter-red)
+![Encryption Expert](https://img.shields.io/badge/Encryption-Expert-green)
+![Firewall Wizard](https://img.shields.io/badge/Firewall-Wizard-blue)
+
+---
+
+## 🎉 Miscellaneous Badges
+
+![Open Source Advocate](https://img.shields.io/badge/Open%20Source-Advocate-brightgreen)
+![Documentation Diva](https://img.shields.io/badge/Documentation-Diva-purple)
+![Agile Guru](https://img.shields.io/badge/Agile-Guru-blue)
 
 ---
 
