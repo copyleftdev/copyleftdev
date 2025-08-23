@@ -91,19 +91,7 @@ const copyleftdev = {
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=copyleftdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
-</div>
-
----
-
-## 🎵 **Currently Vibing To**
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing/copyleftdev)](https://open.spotify.com/user/copyleftdev)
-
-![Music Stats](https://spotify-recently-played-readme.vercel.app/api?user=copyleftdev&count=5&unique=true)
-
-### 🎧 **My Coding Playlists**
+### **My Coding Playlists**
 [![Coding Beats](https://img.shields.io/badge/Spotify-Coding%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 [![Lo-Fi Hip Hop](https://img.shields.io/badge/Spotify-Lo--Fi%20Hip%20Hop-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
 [![Electronic Focus](https://img.shields.io/badge/Spotify-Electronic%20Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
