@@ -26,12 +26,9 @@
 
 <br/>
 
-<!-- ABOUT SECTION -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+---
 
-```diff
-@@                     ABOUT                     @@
-```
+## `> whoami`
 
 ```js
 const copyleftdev = {
@@ -43,14 +40,9 @@ const copyleftdev = {
 };
 ```
 
-<br/>
+---
 
-<!-- TECH STACK -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-```diff
-@@                  TECH ARSENAL                  @@
-```
+## `> tech --list`
 
 <div align="center">
 
@@ -63,101 +55,58 @@ const copyleftdev = {
 
 </div>
 
-<br/>
+---
 
-<!-- FEATURED WORK -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+## `> ls ./projects`
 
-```diff
-@@                 FEATURED WORK                 @@
-```
-
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🔒 fatt</h3>
-<p align="center">
-<a href="https://github.com/copyleftdev/fatt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=copyleftdev&repo=fatt&theme=transparent&hide_border=true&title_color=00fff9&text_color=c9d1d9&icon_color=ff3366&bg_color=0d1117"/>
-</a>
-</p>
-<p align="center"><em>High-performance async security scanner for identifying exposed files across millions of domains. Built in Rust.</em></p>
+### 🔒 [fatt](https://github.com/copyleftdev/fatt)
+High-performance async security scanner for identifying exposed files across millions of domains. **Built in Rust.**
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🧠 sigmos</h3>
-<p align="center">
-<a href="https://github.com/copyleftdev/sigmos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=copyleftdev&repo=sigmos&theme=transparent&hide_border=true&title_color=00fff9&text_color=c9d1d9&icon_color=ff3366&bg_color=0d1117"/>
-</a>
-</p>
-<p align="center"><em>Next-gen DSL for defining AI-native, composable, reactive systems. Rust.</em></p>
+### 🧠 [sigmos](https://github.com/copyleftdev/sigmos)
+Next-gen DSL for defining AI-native, composable, reactive systems. **Rust.**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📚 vibe-rules-collection</h3>
-<p align="center">
-<a href="https://github.com/copyleftdev/vibe-rules-collection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=copyleftdev&repo=vibe-rules-collection&theme=transparent&hide_border=true&title_color=00fff9&text_color=c9d1d9&icon_color=ff3366&bg_color=0d1117"/>
-</a>
-</p>
-<p align="center"><em>Curated .windsurfrules for AI coding assistants. 40+ forks.</em></p>
+### 📚 [vibe-rules-collection](https://github.com/copyleftdev/vibe-rules-collection)
+Curated `.windsurfrules` for AI coding assistants. **40+ forks.**
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🎯 OverHelloWorld</h3>
-<p align="center">
-<a href="https://github.com/copyleftdev/OverHelloWorld">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=copyleftdev&repo=OverHelloWorld&theme=transparent&hide_border=true&title_color=00fff9&text_color=c9d1d9&icon_color=ff3366&bg_color=0d1117"/>
-</a>
-</p>
-<p align="center"><em>Intentionally over-engineered Hello World in Go. DDD, CQRS, event sourcing, telemetry.</em></p>
+### 🎯 [OverHelloWorld](https://github.com/copyleftdev/OverHelloWorld)
+Intentionally over-engineered Hello World in Go. **DDD, CQRS, event sourcing, telemetry.**
 
 </td>
 </tr>
 </table>
-</div>
 
-<br/>
+---
 
-<!-- STATS -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-```diff
-@@                   METRICS                   @@
-```
+## `> stats`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=copyleftdev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=ff3366&text_color=c9d1d9&include_all_commits=true&count_private=true&ring_color=00fff9"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=copyleftdev&hide_border=true&background=0d1117&stroke=30363d&ring=00fff9&fire=ff3366&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00fff9&sideLabels=8b949e&dates=6e7681"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=copyleftdev&hide_border=true&background=0d1117&stroke=30363d&ring=00fff9&fire=ff3366&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00fff9&sideLabels=8b949e&dates=6e7681" width="70%"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copyleftdev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=c9d1d9&langs_count=8"/>
-
-<br/><br/>
-
-<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=copyleftdev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
 
 </div>
 
-<br/>
+---
 
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-```diff
-@@              CONTRIBUTION GRAPH              @@
-```
+## `> contributions`
 
 <div align="center">
 
@@ -169,40 +118,24 @@ const copyleftdev = {
 
 </div>
 
-<br/>
+---
 
-<!-- ACTIVITY -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-```diff
-@@              RECENT ACTIVITY              @@
-```
+## `> activity`
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<br/>
-
-<!-- FOOTER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=100&section=footer&animation=twinkling"/>
-
 ```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⡿⠛⠉⠉⠉⠙⠻⣿⣿⣿⠿⠛⠉⠉⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⠃⠀⠀⠀⢀⣀⣀⣀⠀⠀⠀⠀⠀⠀⣀⣀⣀⡀⠀⠀⠘⣿⣿⣿⣿⣿
-⣿⣿⣿⡏⠀⠀⠀⣰⣿⣿⣿⣿⠇⠀⠀⠀⠀⢸⣿⣿⣿⣿⣆⠀⠀⢹⣿⣿⣿⣿
-⣿⣿⣿⡇⠀⠀⠀⠻⠿⠿⠿⠋⠀⠀⠀⠀⠀⠀⠙⠿⠿⠿⠟⠀⠀⢸⣿⣿⣿⣿
-⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿
-⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠈⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣤⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+ ██████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ███████╗███████╗████████╗██████╗ ███████╗██╗   ██╗
+██╔════╝██╔═══██╗██╔══██╗╚██╗ ██╔╝██║     ██╔════╝██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║   ██║
+██║     ██║   ██║██████╔╝ ╚████╔╝ ██║     █████╗  █████╗     ██║   ██║  ██║█████╗  ██║   ██║
+██║     ██║   ██║██╔═══╝   ╚██╔╝  ██║     ██╔══╝  ██╔══╝     ██║   ██║  ██║██╔══╝  ╚██╗ ██╔╝
+╚██████╗╚██████╔╝██║        ██║   ███████╗███████╗██║        ██║   ██████╔╝███████╗ ╚████╔╝ 
+ ╚═════╝ ╚═════╝ ╚═╝        ╚═╝   ╚══════╝╚══════╝╚═╝        ╚═╝   ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
 **`> EOF`**
