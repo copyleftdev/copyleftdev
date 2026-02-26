@@ -13,6 +13,21 @@
 
 ---
 
+## About
+
+I'm a systems-level software engineer focused on security tooling, developer infrastructure, and AI-native systems.
+Most of my work lives at the intersection of offensive security, protocol engineering, and CLI design — shipping single-binary tools with minimal dependencies that solve one problem well.
+
+- **Security research** — building distributed scanners, web fuzzers, OSINT frameworks, and adversarial evaluation harnesses for LLMs
+- **Developer tools** — self-hosted tunnel servers, webhook inspectors, credential managers, and CI/CD automation
+- **AI infrastructure** — Model Context Protocol (MCP) servers, sampling policy engines, and DSLs for composable AI systems
+- **Systems programming** — Rust-first, with production work in Go, Zig, Python, TypeScript, and Nim
+- **Open source** — 560+ public repositories, all original tools designed to be auditable and forkable
+
+I care about software that is small, correct, and observable. If it can't be deployed with `scp` and run without a runtime, it's probably too complicated.
+
+---
+
 ## Languages & Tools
 
 <kbd>Rust</kbd> <kbd>Go</kbd> <kbd>Zig</kbd> <kbd>Python</kbd> <kbd>TypeScript</kbd> <kbd>Nim</kbd> <kbd>Shell</kbd> <kbd>Docker</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>SQLite</kbd>
