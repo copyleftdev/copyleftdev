@@ -1,143 +1,77 @@
-<div align="center">
-
-<img src="assets/header.svg" width="100%" alt="copyleftdev"/>
-
-<br/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFF9&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%24+Building+systems+that+scale;%24+Breaking+things+in+production;%24+Writing+code+that+writes+code" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Quick Links -->
-<p>
-<a href="https://bwarz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00fff9"/></a>
-<a href="mailto:don@codetestcode.io"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=ff3366"/></a>
-<a href="https://linkedin.com/in/copyleftdev"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00d4ff"/></a>
-</p>
-
-<!-- Profile views & followers -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=copyleftdev&style=for-the-badge&color=00fff9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/copyleftdev?style=for-the-badge&color=ff3366&labelColor=000&logo=github&label=FOLLOWERS"/>
-</p>
-
-</div>
-
-<br/>
-
----
-
-## `> whoami`
-
-```js
-const copyleftdev = {
-    location: "The Cloud ☁️",
-    focus: ["Distributed Systems", "Developer Tools", "Infrastructure"],
-    currently_exploring: ["Zig", "WebAssembly", "Kubernetes"],
-    architecture: ["Microservices", "Event-Driven", "Serverless"],
-    motto: "Ship fast, break things, fix faster"
-};
-```
-
----
-
-## `> tech --list`
-
-<div align="center">
-
-| Category | Technologies |
-|:--------:|:------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00fff9) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=00fff9) ![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00fff9) ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=ff3366) ![Shell](https://img.shields.io/badge/Shell-000?style=flat-square&logo=gnu-bash&logoColor=00fff9) |
-| **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=ff9900) ![GCP](https://img.shields.io/badge/GCP-000?style=flat-square&logo=googlecloud&logoColor=4285f4) ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00fff9) ![Kubernetes](https://img.shields.io/badge/K8s-000?style=flat-square&logo=kubernetes&logoColor=326ce5) ![Terraform](https://img.shields.io/badge/Terraform-000?style=flat-square&logo=terraform&logoColor=7b42bc) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=00fff9) ![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=ff3366) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=47a248) |
-| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=009688) ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00fff9) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff) |
-
-</div>
-
----
-
-## `> ls ./projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔒 [fatt](https://github.com/copyleftdev/fatt)
-High-performance async security scanner for identifying exposed files across millions of domains. **Built in Rust.**
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [sigmos](https://github.com/copyleftdev/sigmos)
-Next-gen DSL for defining AI-native, composable, reactive systems. **Rust.**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 [vibe-rules-collection](https://github.com/copyleftdev/vibe-rules-collection)
-Curated `.windsurfrules` for AI coding assistants. **40+ forks.**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 [OverHelloWorld](https://github.com/copyleftdev/OverHelloWorld)
-Intentionally over-engineered Hello World in Go. **DDD, CQRS, event sourcing, telemetry.**
-
-</td>
-</tr>
-</table>
-
----
-
-## `> stats`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=copyleftdev&hide_border=true&background=0d1117&stroke=30363d&ring=00fff9&fire=ff3366&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00fff9&sideLabels=8b949e&dates=6e7681" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=copyleftdev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
-
-</div>
-
----
-
-## `> contributions`
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/copyleftdev/copyleftdev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/copyleftdev/copyleftdev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/copyleftdev/copyleftdev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"/>
+  <img src="assets/header.svg" width="100%" alt="copyleftdev"/>
 </picture>
 
-</div>
+> [!NOTE]
+> I build sharp, single-purpose tools — mostly in Rust, sometimes in Go or Zig.
+> Security scanners, developer utilities, AI infrastructure, and the occasional absurd experiment.
+> 560+ public repos. Everything ships.
+
+[gitmesh.app](https://www.gitmesh.app/) · [don@codetestcode.io](mailto:don@codetestcode.io) · [linkedin](https://www.linkedin.com/in/donscv/)
 
 ---
 
-## `> activity`
+## Languages & Tools
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<kbd>Rust</kbd> <kbd>Go</kbd> <kbd>Zig</kbd> <kbd>Python</kbd> <kbd>TypeScript</kbd> <kbd>Nim</kbd> <kbd>Shell</kbd> <kbd>Docker</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>SQLite</kbd>
+
+---
+
+## Selected Repositories
+
+### Security & Offensive
+
+| Repository | Description | Language |
+|:-----------|:------------|:--------:|
+| [fatt](https://github.com/copyleftdev/fatt) | Distributed async scanner for exposed files across millions of domains | $\texttt{Rust}$ |
+| [fuf](https://github.com/copyleftdev/fuf) | Fast next-generation web fuzzer | $\texttt{Rust}$ |
+| [blsmesh](https://github.com/copyleftdev/blsmesh) | Distributed adversarial behavioral security evaluation for LLMs | $\texttt{Rust}$ |
+| [robin-smesh](https://github.com/copyleftdev/robin-smesh) | Decentralized dark web OSINT framework — Tor crawling, artifact extraction | $\texttt{Rust}$ |
+| [thinksec](https://github.com/copyleftdev/thinksec) | Curated collection of security skill files for expert workflows | $\texttt{md}$ |
+| [chrono-dance-showcase](https://github.com/copyleftdev/chrono-dance-showcase) | Temporal threat detection engine for security analysts | — |
+
+### Developer Tools
+
+| Repository | Description | Language |
+|:-----------|:------------|:--------:|
+| [hook-bin](https://github.com/copyleftdev/hook-bin) | Single-binary webhook inbox — embedded SQLite, live dashboard, zero deps | $\texttt{Rust}$ |
+| [zgrok](https://github.com/copyleftdev/zgrok) | Self-hosted ngrok alternative built on Tokio | $\texttt{Rust}$ |
+| [corey](https://github.com/copyleftdev/corey) | CLI for managing GitHub credentials, secrets, and variables | $\texttt{Zig}$ |
+| [print-service-go](https://github.com/copyleftdev/print-service-go) | HTML-to-PDF conversion service with advanced rendering | $\texttt{Go}$ |
+| [workflow-showcase](https://github.com/copyleftdev/workflow-showcase) | Minimal app showcasing powerful GitHub Actions CI/CD patterns | $\texttt{YAML}$ |
+| [pdfvec](https://github.com/copyleftdev/pdfvec) | High-performance PDF text extraction for vectorization pipelines | — |
+
+### AI & MCP Infrastructure
+
+| Repository | Description | Language |
+|:-----------|:------------|:--------:|
+| [sigmos](https://github.com/copyleftdev/sigmos) | DSL for defining AI-native, composable, reactive systems | $\texttt{Rust}$ |
+| [mcp-flow](https://github.com/copyleftdev/mcp-flow) | WebTransport binding for MCP — QUIC streams, no head-of-line blocking | $\texttt{Multi}$ |
+| [nektor](https://github.com/copyleftdev/nektor) | AI-native sampling policy engine for Honeycomb Refinery | $\texttt{Rust}$ |
+| [polymcp](https://github.com/copyleftdev/polymcp) | MCP server for the Polygon.io financial data API | $\texttt{Rust}$ |
+| [sk1llz](https://github.com/copyleftdev/sk1llz) | Legendary engineer philosophies encoded as Anthropic-compatible Skills | $\texttt{md}$ |
+
+### Languages, Formats & Education
+
+| Repository | Description | Language |
+|:-----------|:------------|:--------:|
+| [humanlang](https://github.com/copyleftdev/humanlang) | Token bucket rate limiter implemented in 37 languages (1957–2016) | $\texttt{Multi}$ |
+| [gen3s1s](https://github.com/copyleftdev/gen3s1s) | Synthetic world generator compiled from declarative Genesis files | $\texttt{Rust}$ |
+| [kirsch](https://github.com/copyleftdev/kirsch) | Content fingerprinting & provenance engine — CLIP ViT-B/32, ONNX | $\texttt{Rust}$ |
+| [nimtrace](https://github.com/copyleftdev/nimtrace) | Zero-cost structured tracing framework for Nim | $\texttt{Nim}$ |
+| [toon-zig](https://github.com/copyleftdev/toon-zig) | TOON (Token-Oriented Object Notation) — 30-60% token reduction for LLMs | $\texttt{Zig}$ |
+| [gitfoo_episode_1](https://github.com/copyleftdev/gitfoo_episode_1) | Git Black Belt Masterclass — the other 90% of git most devs never use | $\texttt{Python}$ |
+| [OverHelloWorld](https://github.com/copyleftdev/OverHelloWorld) | Intentionally over-engineered Hello World — DDD, CQRS, event sourcing, telemetry | $\texttt{Go}$ |
+| [vibe-rules-collection](https://github.com/copyleftdev/vibe-rules-collection) | Curated rules for AI coding assistants[^1] | $\texttt{md}$ |
+
+[^1]: 45 stars — the most-starred original repo in the collection.
 
 ---
 
 <div align="center">
 
-```
- ██████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ███████╗███████╗████████╗██████╗ ███████╗██╗   ██╗
-██╔════╝██╔═══██╗██╔══██╗╚██╗ ██╔╝██║     ██╔════╝██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║   ██║
-██║     ██║   ██║██████╔╝ ╚████╔╝ ██║     █████╗  █████╗     ██║   ██║  ██║█████╗  ██║   ██║
-██║     ██║   ██║██╔═══╝   ╚██╔╝  ██║     ██╔══╝  ██╔══╝     ██║   ██║  ██║██╔══╝  ╚██╗ ██╔╝
-╚██████╗╚██████╔╝██║        ██║   ███████╗███████╗██║        ██║   ██████╔╝███████╗ ╚████╔╝ 
- ╚═════╝ ╚═════╝ ╚═╝        ╚═╝   ╚══════╝╚══════╝╚═╝        ╚═╝   ╚═════╝ ╚══════╝  ╚═══╝  
-```
-
-**`> EOF`**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=copyleftdev&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=e6edf3&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="60%"/>
 
 </div>
