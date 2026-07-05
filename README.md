@@ -90,3 +90,5 @@ I care about software that is small, correct, and observable. If it can't be dep
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=copyleftdev&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=e6edf3&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="60%"/>
 
 </div>
+
+<a href="https://gitroll.io/profile/uB8fjxzB4NHUkjkK1pggNJbWLqz93" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uB8fjxzB4NHUkjkK1pggNJbWLqz93?theme=light" alt="GitRoll Profile Badge"/></a>
