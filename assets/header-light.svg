@@ -13,15 +13,19 @@
   <rect width="100%" height="100%" fill="url(#bg)"/>
 
   <line x1="100" y1="130" x2="1100" y2="130" stroke="#d0d7de" stroke-width="1"/>
-  <line x1="100" y1="130" x2="400" y2="130" stroke="url(#accent)" stroke-width="2" opacity="0.6"/>
+  <line x1="100" y1="130" x2="400" y2="130" stroke="url(#accent)" stroke-width="2" opacity="0.6">
+    <animate attributeName="x2" from="100" to="400" dur="1.4s" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1" fill="freeze"/>
+  </line>
 
   <text x="100" y="72" fill="#1f2328" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="42" font-weight="700" letter-spacing="2">
     copyleftdev
   </text>
 
-  <text x="100" y="108" fill="#656d76" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="14" letter-spacing="3">
+  <text x="100" y="108" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="14" letter-spacing="3">
     systems &amp; security &amp; tools
   </text>
 
-  <rect x="100" y="130" width="6" height="6" rx="1" fill="#0969da" opacity="0.8"/>
+  <rect x="100" y="130" width="6" height="6" rx="1" fill="#0969da">
+    <animate attributeName="opacity" values="0.8;0" calcMode="discrete" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
 </svg>

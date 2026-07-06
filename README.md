@@ -5,9 +5,9 @@
 </picture>
 
 > [!NOTE]
-> I build sharp, single-purpose tools — mostly in Rust, sometimes in Go or Zig.
+> I build sharp, single-purpose tools — mostly in Rust and Zig, sometimes in Go or Python.
 > Security scanners, developer utilities, AI infrastructure, and the occasional absurd experiment.
-> 560+ public repos. Everything ships.
+> On GitHub since 2008. Everything ships.
 
 [gitmesh.app](https://www.gitmesh.app/) · [don@codetestcode.io](mailto:don@codetestcode.io) · [linkedin](https://www.linkedin.com/in/donscv/)
 
@@ -18,11 +18,11 @@
 I'm a systems-level software engineer focused on security tooling, developer infrastructure, and AI-native systems.
 Most of my work lives at the intersection of offensive security, protocol engineering, and CLI design — shipping single-binary tools with minimal dependencies that solve one problem well.
 
-- **Security research** — building distributed scanners, web fuzzers, OSINT frameworks, and adversarial evaluation harnesses for LLMs
-- **Developer tools** — self-hosted tunnel servers, webhook inspectors, credential managers, and CI/CD automation
-- **AI infrastructure** — Model Context Protocol (MCP) servers, sampling policy engines, and DSLs for composable AI systems
-- **Systems programming** — Rust-first, with production work in Go, Zig, Python, TypeScript, and Nim
-- **Open source** — 560+ public repositories, all original tools designed to be auditable and forkable
+- **Security research** — network beacon detection, distributed scanners, web fuzzers, OSINT frameworks, and supply-chain forensics
+- **Developer tools** — self-hosted tunnel servers, webhook inspectors, deterministic crawlers, and CI/CD automation
+- **AI infrastructure** — Model Context Protocol (MCP) servers, multi-agent coordination protocols, and DSLs for composable AI systems
+- **Systems programming** — Rust-first, with production work in Zig, Go, Python, TypeScript, and Nim
+- **Open source** — 40+ original public tools, all designed to be auditable and forkable
 
 I care about software that is small, correct, and observable. If it can't be deployed with `scp` and run without a runtime, it's probably too complicated.
 
@@ -30,65 +30,89 @@ I care about software that is small, correct, and observable. If it can't be dep
 
 ## Languages & Tools
 
-<kbd>Rust</kbd> <kbd>Go</kbd> <kbd>Zig</kbd> <kbd>Python</kbd> <kbd>TypeScript</kbd> <kbd>Nim</kbd> <kbd>Shell</kbd> <kbd>Docker</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>SQLite</kbd>
+<kbd>Rust</kbd> <kbd>Zig</kbd> <kbd>Go</kbd> <kbd>Python</kbd> <kbd>TypeScript</kbd> <kbd>Nim</kbd> <kbd>Shell</kbd> <kbd>Docker</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>SQLite</kbd>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg"/>
+  <img src="assets/metrics.svg" width="100%" alt="live github metrics"/>
+</picture>
+
+---
+
+## Recently Shipped
+
+<!--RECENT:START-->
+| Repository | Description | Lang | Last push |
+|:-----------|:------------|:----:|:----------|
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-06 |
+| [floq](https://github.com/copyleftdev/floq) | Detect C2 beacons in network traffic using Floquet spectral analysis from quantum chaos… | $\texttt{Zig}$ | 2026-07-04 |
+| [smesh-rust](https://github.com/copyleftdev/smesh-rust) | High-performance decentralized coordination protocol for multi-agent LLM systems.… | $\texttt{Rust}$ | 2026-07-04 |
+| [fafoaas](https://github.com/copyleftdev/fafoaas) | FAFO as a Service — an event-driven homage to FOAAS and a working masterclass in spec-first… | $\texttt{TypeScript}$ | 2026-07-03 |
+| [coelacanth](https://github.com/copyleftdev/coelacanth) | AI-first Unix primitives, clean-room reimplemented in Zig under one self-describing… | $\texttt{Zig}$ | 2026-07-01 |
+| [rational](https://github.com/copyleftdev/rational) | AI cost, with the vibes removed. Exact-rational models + a live calculator for the 8 LLM… | $\texttt{Python}$ | 2026-07-01 |
+<!--RECENT:END-->
+
+<sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
 
 ---
 
 ## Selected Repositories
 
-### Security & Offensive
+### Security & Detection
 
 | Repository | Description | Language |
 |:-----------|:------------|:--------:|
+| [floq](https://github.com/copyleftdev/floq) | C2 beacon detection via Floquet spectral analysis — pcap, live capture, or OTLP; 274 KB binary | $\texttt{Zig}$ |
+| [anomalyx](https://github.com/copyleftdev/anomalyx) | Contract-first anomaly detection across ~30 formats — logs, pcap, OTLP; deterministic CLI | $\texttt{Rust}$ |
 | [fatt](https://github.com/copyleftdev/fatt) | Distributed async scanner for exposed files across millions of domains | $\texttt{Rust}$ |
 | [fuf](https://github.com/copyleftdev/fuf) | Fast next-generation web fuzzer | $\texttt{Rust}$ |
-| [blsmesh](https://github.com/copyleftdev/blsmesh) | Distributed adversarial behavioral security evaluation for LLMs | $\texttt{Rust}$ |
 | [robin-smesh](https://github.com/copyleftdev/robin-smesh) | Decentralized dark web OSINT framework — Tor crawling, artifact extraction | $\texttt{Rust}$ |
-| [thinksec](https://github.com/copyleftdev/thinksec) | Curated collection of security skill files for expert workflows | $\texttt{md}$ |
-| [chrono-dance-showcase](https://github.com/copyleftdev/chrono-dance-showcase) | Temporal threat detection engine for security analysts | — |
+| [mini-shai-hulud-dragnet](https://github.com/copyleftdev/mini-shai-hulud-dragnet) | Forensic dataset + live dashboard for the 2026 npm supply-chain worm — 1,117 dropbox repos, 47 IOCs | $\texttt{Shell}$ |
 
-### Developer Tools
+### Systems & Developer Tools
 
 | Repository | Description | Language |
 |:-----------|:------------|:--------:|
+| [tailx](https://github.com/copyleftdev/tailx) | Live system cognition engine — `tail` reimagined: anomalies, traces, structured JSON; 144 KB | $\texttt{Zig}$ |
+| [coelacanth](https://github.com/copyleftdev/coelacanth) | AI-first Unix primitives, clean-room reimplemented under one machine-checkable contract | $\texttt{Zig}$ |
+| [palimpsest](https://github.com/copyleftdev/palimpsest) | Deterministic crawl kernel — same seed, identical crawl; JA3/JA4 impersonation, WARC++ | $\texttt{Rust}$ |
 | [hook-bin](https://github.com/copyleftdev/hook-bin) | Single-binary webhook inbox — embedded SQLite, live dashboard, zero deps | $\texttt{Rust}$ |
 | [zgrok](https://github.com/copyleftdev/zgrok) | Self-hosted ngrok alternative built on Tokio | $\texttt{Rust}$ |
-| [corey](https://github.com/copyleftdev/corey) | CLI for managing GitHub credentials, secrets, and variables | $\texttt{Zig}$ |
-| [print-service-go](https://github.com/copyleftdev/print-service-go) | HTML-to-PDF conversion service with advanced rendering | $\texttt{Go}$ |
-| [workflow-showcase](https://github.com/copyleftdev/workflow-showcase) | Minimal app showcasing powerful GitHub Actions CI/CD patterns | $\texttt{YAML}$ |
-| [pdfvec](https://github.com/copyleftdev/pdfvec) | High-performance PDF text extraction for vectorization pipelines | — |
+| [cora](https://github.com/copyleftdev/cora) | Multi-pattern fixed-string matcher — Aho-Corasick + SIMD on mmap'd files, NDJSON output | $\texttt{Rust}$ |
 
-### AI & MCP Infrastructure
+### AI & Agent Infrastructure
 
 | Repository | Description | Language |
 |:-----------|:------------|:--------:|
+| [smesh-rust](https://github.com/copyleftdev/smesh-rust) | Decentralized coordination protocol for multi-agent LLM systems — QUIC P2P, sub-µs signal diffusion | $\texttt{Rust}$ |
+| [vajra](https://github.com/copyleftdev/vajra) | Deterministic semantic reduction engine for structured data — break noise, preserve truth | $\texttt{Rust}$ |
+| [agent-calc](https://github.com/copyleftdev/agent-calc) | AI-native exact calculator — typed JSON math, symbolic reasoning, mutation-tested | $\texttt{Rust}$ |
 | [sigmos](https://github.com/copyleftdev/sigmos) | DSL for defining AI-native, composable, reactive systems | $\texttt{Rust}$ |
 | [mcp-flow](https://github.com/copyleftdev/mcp-flow) | WebTransport binding for MCP — QUIC streams, no head-of-line blocking | $\texttt{Multi}$ |
-| [nektor](https://github.com/copyleftdev/nektor) | AI-native sampling policy engine for Honeycomb Refinery | $\texttt{Rust}$ |
-| [polymcp](https://github.com/copyleftdev/polymcp) | MCP server for the Polygon.io financial data API | $\texttt{Rust}$ |
-| [sk1llz](https://github.com/copyleftdev/sk1llz) | Legendary engineer philosophies encoded as Anthropic-compatible Skills | $\texttt{md}$ |
+| [toon-zig](https://github.com/copyleftdev/toon-zig) | TOON (Token-Oriented Object Notation) — 30–60% token reduction for LLMs | $\texttt{Zig}$ |
 
-### Languages, Formats & Education
+### Education & the Absurd
 
 | Repository | Description | Language |
 |:-----------|:------------|:--------:|
 | [humanlang](https://github.com/copyleftdev/humanlang) | Token bucket rate limiter implemented in 37 languages (1957–2016) | $\texttt{Multi}$ |
-| [gen3s1s](https://github.com/copyleftdev/gen3s1s) | Synthetic world generator compiled from declarative Genesis files | $\texttt{Rust}$ |
-| [kirsch](https://github.com/copyleftdev/kirsch) | Content fingerprinting & provenance engine — CLIP ViT-B/32, ONNX | $\texttt{Rust}$ |
-| [nimtrace](https://github.com/copyleftdev/nimtrace) | Zero-cost structured tracing framework for Nim | $\texttt{Nim}$ |
-| [toon-zig](https://github.com/copyleftdev/toon-zig) | TOON (Token-Oriented Object Notation) — 30-60% token reduction for LLMs | $\texttt{Zig}$ |
+| [git-archaeology-lab](https://github.com/copyleftdev/git-archaeology-lab) | Hands-on exercises for forgotten git commands — crafted history, real bugs, real bisect targets | $\texttt{Shell}$ |
 | [gitfoo_episode_1](https://github.com/copyleftdev/gitfoo_episode_1) | Git Black Belt Masterclass — the other 90% of git most devs never use | $\texttt{Python}$ |
 | [OverHelloWorld](https://github.com/copyleftdev/OverHelloWorld) | Intentionally over-engineered Hello World — DDD, CQRS, event sourcing, telemetry | $\texttt{Go}$ |
-| [vibe-rules-collection](https://github.com/copyleftdev/vibe-rules-collection) | Curated rules for AI coding assistants[^1] | $\texttt{md}$ |
-
-[^1]: 45 stars — the most-starred original repo in the collection.
+| [fafoaas](https://github.com/copyleftdev/fafoaas) | FAFO as a Service — spec-first engineering masterclass; AsyncAPI 3 + MCP, 98/98 mutation score | $\texttt{TS}$ |
+| [tip-to-tip-efficiency](https://github.com/copyleftdev/tip-to-tip-efficiency) | Mathematically serious crate for a deeply unserious Silicon Valley efficiency empire | $\texttt{Rust}$ |
 
 ---
 
-<div align="center">
+<a href="https://gitroll.io/profile/uB8fjxzB4NHUkjkK1pggNJbWLqz93">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitroll.io/api/badges/profiles/v1/uB8fjxzB4NHUkjkK1pggNJbWLqz93?theme=dark"/>
+    <img src="https://gitroll.io/api/badges/profiles/v1/uB8fjxzB4NHUkjkK1pggNJbWLqz93?theme=light" alt="GitRoll Profile Badge"/>
+  </picture>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=copyleftdev&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=e6edf3&currStreakNum=e6edf3&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="60%"/>
-
-</div>
-
-<a href="https://gitroll.io/profile/uB8fjxzB4NHUkjkK1pggNJbWLqz93" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uB8fjxzB4NHUkjkK1pggNJbWLqz93?theme=light" alt="GitRoll Profile Badge"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/copyleftdev/copyleftdev/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/copyleftdev/copyleftdev/output/github-snake.svg" alt="contribution snake" width="100%"/>
+</picture>

@@ -1,0 +1,29 @@
+name: Refresh Profile Metrics
+
+on:
+  schedule:
+    - cron: "17 4 * * *"  # Nightly
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate metrics SVGs and README section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_profile.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets README.md
+          git diff --cached --quiet || { git commit -m "chore: refresh profile metrics"; git push; }
