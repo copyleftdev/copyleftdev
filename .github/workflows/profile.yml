@@ -19,6 +19,9 @@ jobs:
       - name: Generate metrics SVGs and README section
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional PAT that can read private repo metadata; enables the
+          # "original repos · incl private" count. Falls back to public-only.
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: python3 scripts/generate_profile.py
 
       - name: Commit if changed

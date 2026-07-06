@@ -25,6 +25,9 @@ query {
     createdAt
     followers { totalCount }
     contributionsCollection { contributionCalendar { totalContributions } }
+    allOriginals: repositories(ownerAffiliations: OWNER, isFork: false) {
+      totalCount
+    }
     repositories(first: 100, ownerAffiliations: OWNER, privacy: PUBLIC,
                  isFork: false, orderBy: {field: PUSHED_AT, direction: DESC}) {
       totalCount
@@ -88,9 +91,17 @@ def render_metrics(user, theme):
     now = datetime.now(timezone.utc)
     years = now.year - created.year - ((now.month, now.day) < (created.month, created.day))
 
+    # allOriginals includes private repos only when the token can see them;
+    # pick the label to match what was actually counted so it can never lie
+    all_originals = user["allOriginals"]["totalCount"]
+    if all_originals > originals:
+        repo_stat = (f"{all_originals:,}", "original repos · incl private")
+    else:
+        repo_stat = (str(originals), "original public repos")
+
     stats = [
         (f"{contribs:,}", "contributions · past year"),
-        (str(originals), "original public repos"),
+        repo_stat,
         (str(years), "years on github"),
         (str(followers), "followers"),
     ]
@@ -189,9 +200,9 @@ def update_readme(section):
 
 
 def main():
-    token = os.environ.get("GITHUB_TOKEN")
+    token = os.environ.get("METRICS_TOKEN") or os.environ.get("GITHUB_TOKEN")
     if not token:
-        sys.exit("GITHUB_TOKEN is required")
+        sys.exit("METRICS_TOKEN or GITHUB_TOKEN is required")
     user = fetch(token)
     (ROOT / "assets" / "metrics.svg").write_text(render_metrics(user, "dark"))
     (ROOT / "assets" / "metrics-light.svg").write_text(render_metrics(user, "light"))
