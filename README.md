@@ -45,12 +45,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-07 |
+| [whatthediff](https://github.com/copyleftdev/whatthediff) | What actually matters across N files: consensus, drift, outliers and variant families — for… | $\texttt{Zig}$ | 2026-07-08 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-08 |
 | [cosaci](https://github.com/copyleftdev/cosaci) | Distributed attested CI mesh — property-tested at every layer | $\texttt{Rust}$ | 2026-07-06 |
 | [floq](https://github.com/copyleftdev/floq) | Detect C2 beacons in network traffic using Floquet spectral analysis from quantum chaos… | $\texttt{Zig}$ | 2026-07-04 |
 | [smesh-rust](https://github.com/copyleftdev/smesh-rust) | High-performance decentralized coordination protocol for multi-agent LLM systems.… | $\texttt{Rust}$ | 2026-07-04 |
 | [fafoaas](https://github.com/copyleftdev/fafoaas) | FAFO as a Service — an event-driven homage to FOAAS and a working masterclass in spec-first… | $\texttt{TypeScript}$ | 2026-07-03 |
-| [coelacanth](https://github.com/copyleftdev/coelacanth) | AI-first Unix primitives, clean-room reimplemented in Zig under one self-describing… | $\texttt{Zig}$ | 2026-07-01 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
