@@ -45,8 +45,8 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-09 |
 | [whatthediff](https://github.com/copyleftdev/whatthediff) | What actually matters across N files: consensus, drift, outliers and variant families — for… | $\texttt{Zig}$ | 2026-07-08 |
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-08 |
 | [cosaci](https://github.com/copyleftdev/cosaci) | Distributed attested CI mesh — property-tested at every layer | $\texttt{Rust}$ | 2026-07-06 |
 | [floq](https://github.com/copyleftdev/floq) | Detect C2 beacons in network traffic using Floquet spectral analysis from quantum chaos… | $\texttt{Zig}$ | 2026-07-04 |
 | [smesh-rust](https://github.com/copyleftdev/smesh-rust) | High-performance decentralized coordination protocol for multi-agent LLM systems.… | $\texttt{Rust}$ | 2026-07-04 |
