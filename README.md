@@ -45,7 +45,7 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-11 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-12 |
 | [fafoaas](https://github.com/copyleftdev/fafoaas) | FAFO as a Service — an event-driven homage to FOAAS and a working masterclass in spec-first… | $\texttt{TypeScript}$ | 2026-07-11 |
 | [akamaiforms-site](https://github.com/copyleftdev/akamaiforms-site) | — | $\texttt{HTML}$ | 2026-07-10 |
 | [whatthediff](https://github.com/copyleftdev/whatthediff) | What actually matters across N files: consensus, drift, outliers and variant families — for… | $\texttt{Zig}$ | 2026-07-08 |
