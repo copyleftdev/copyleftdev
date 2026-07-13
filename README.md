@@ -45,12 +45,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-12 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-13 |
+| [claimzen-site](https://github.com/copyleftdev/claimzen-site) | ClaimZen — evidence-backed denial recovery. Marketing site. | $\texttt{HTML}$ | 2026-07-12 |
+| [zgrok](https://github.com/copyleftdev/zgrok) | Self-hosted ngrok alternative in Rust. Development in progress - check out the issues for… | $\texttt{Rust}$ | 2026-07-12 |
 | [fafoaas](https://github.com/copyleftdev/fafoaas) | FAFO as a Service — an event-driven homage to FOAAS and a working masterclass in spec-first… | $\texttt{TypeScript}$ | 2026-07-11 |
 | [akamaiforms-site](https://github.com/copyleftdev/akamaiforms-site) | — | $\texttt{HTML}$ | 2026-07-10 |
 | [whatthediff](https://github.com/copyleftdev/whatthediff) | What actually matters across N files: consensus, drift, outliers and variant families — for… | $\texttt{Zig}$ | 2026-07-08 |
-| [cosaci](https://github.com/copyleftdev/cosaci) | Distributed attested CI mesh — property-tested at every layer | $\texttt{Rust}$ | 2026-07-06 |
-| [floq](https://github.com/copyleftdev/floq) | Detect C2 beacons in network traffic using Floquet spectral analysis from quantum chaos… | $\texttt{Zig}$ | 2026-07-04 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
