@@ -5,27 +5,27 @@
 </defs>
 <rect x="0.5" y="0.5" width="1199" height="209" rx="6" fill="url(#bg)" stroke="#d0d7de"/>
 <text x="100" y="42" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="12" letter-spacing="3">LIVE TELEMETRY <tspan fill="#0969da">//</tspan> regenerated nightly from the GitHub API</text>
-<text x="100" y="100" fill="#1f2328" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="34" font-weight="700">11,248</text>
+<text x="100" y="100" fill="#1f2328" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="34" font-weight="700">11,264</text>
 <text x="100" y="122" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="11" letter-spacing="2">CONTRIBUTIONS · PAST YEAR</text>
-<text x="375" y="100" fill="#1f2328" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="34" font-weight="700">853</text>
+<text x="375" y="100" fill="#1f2328" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="34" font-weight="700">854</text>
 <text x="375" y="122" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="11" letter-spacing="2">ORIGINAL REPOS · INCL PRIVATE</text>
 <text x="650" y="100" fill="#1f2328" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="34" font-weight="700">18</text>
 <text x="650" y="122" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="11" letter-spacing="2">YEARS ON GITHUB</text>
 <text x="925" y="100" fill="#1f2328" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="34" font-weight="700">219</text>
 <text x="925" y="122" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="11" letter-spacing="2">FOLLOWERS</text>
-<rect x="100.0" y="148" width="437.5" height="8" fill="#dea584" clip-path="url(#bar)"/>
-<rect x="537.5" y="148" width="125.0" height="8" fill="#3572A5" clip-path="url(#bar)"/>
-<rect x="662.5" y="148" width="104.2" height="8" fill="#e34c26" clip-path="url(#bar)"/>
-<rect x="766.7" y="148" width="104.2" height="8" fill="#ec915c" clip-path="url(#bar)"/>
-<rect x="870.8" y="148" width="83.3" height="8" fill="#89e051" clip-path="url(#bar)"/>
-<rect x="954.2" y="148" width="41.7" height="8" fill="#3178c6" clip-path="url(#bar)"/>
-<rect x="995.8" y="148" width="104.2" height="8" fill="#57606a" clip-path="url(#bar)"/>
+<rect x="100.0" y="148" width="428.6" height="8" fill="#dea584" clip-path="url(#bar)"/>
+<rect x="528.6" y="148" width="122.4" height="8" fill="#e34c26" clip-path="url(#bar)"/>
+<rect x="651.0" y="148" width="122.4" height="8" fill="#3572A5" clip-path="url(#bar)"/>
+<rect x="773.5" y="148" width="102.0" height="8" fill="#ec915c" clip-path="url(#bar)"/>
+<rect x="875.5" y="148" width="81.6" height="8" fill="#89e051" clip-path="url(#bar)"/>
+<rect x="957.1" y="148" width="40.8" height="8" fill="#3178c6" clip-path="url(#bar)"/>
+<rect x="998.0" y="148" width="102.0" height="8" fill="#57606a" clip-path="url(#bar)"/>
 <circle cx="104" cy="178" r="4" fill="#dea584"/>
-<text x="114" y="182" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="12">Rust 44%</text>
-<circle cx="202" cy="178" r="4" fill="#3572A5"/>
-<text x="212" y="182" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="12">Python 12%</text>
-<circle cx="315" cy="178" r="4" fill="#e34c26"/>
-<text x="325" y="182" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="12">HTML 10%</text>
+<text x="114" y="182" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="12">Rust 43%</text>
+<circle cx="202" cy="178" r="4" fill="#e34c26"/>
+<text x="212" y="182" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="12">HTML 12%</text>
+<circle cx="300" cy="178" r="4" fill="#3572A5"/>
+<text x="310" y="182" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="12">Python 12%</text>
 <circle cx="413" cy="178" r="4" fill="#ec915c"/>
 <text x="423" y="182" fill="#57606a" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="12">Zig 10%</text>
 <circle cx="504" cy="178" r="4" fill="#89e051"/>
