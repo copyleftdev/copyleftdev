@@ -4,6 +4,25 @@
   <img src="assets/header.svg" width="100%" alt="copyleftdev"/>
 </picture>
 
+<h3 align="center">Tip my tokens</h3>
+<p align="center">Fund the compute behind my open source — every tip becomes AI inference credit I can spend on any model.</p>
+
+<p align="center">
+  <a href="https://tokentip.to/@copyleftdev">
+    <img alt="Tip tokens to @copyleftdev" height="42"
+         src="https://tokentip.to/badge/copyleftdev.svg?style=for-the-badge&logo=1">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tokentip.to/@copyleftdev">
+    <img alt="Scan to tip @copyleftdev" width="150"
+         src="https://tokentip.to/qr/copyleftdev.svg">
+  </a>
+</p>
+
+---
+
 > [!NOTE]
 > I build sharp, single-purpose tools — mostly in Rust and Zig, sometimes in Go or Python.
 > Security scanners, developer utilities, AI infrastructure, and the occasional absurd experiment.
@@ -117,21 +136,3 @@ I care about software that is small, correct, and observable. If it can't be dep
   <img src="https://raw.githubusercontent.com/copyleftdev/copyleftdev/output/github-snake.svg" alt="contribution snake" width="100%"/>
 </picture>
 
----
-
-<h3 align="center">Tip my tokens</h3>
-<p align="center">Fund the compute behind my open source — every tip becomes AI inference credit I can spend on any model.</p>
-
-<p align="center">
-  <a href="https://tokentip.to/@copyleftdev">
-    <img alt="Tip tokens to @copyleftdev" height="42"
-         src="https://tokentip.to/badge/copyleftdev.svg?style=for-the-badge&logo=1">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://tokentip.to/@copyleftdev">
-    <img alt="Scan to tip @copyleftdev" width="150"
-         src="https://tokentip.to/qr/copyleftdev.svg">
-  </a>
-</p>
