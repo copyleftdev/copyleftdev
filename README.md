@@ -64,12 +64,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-16 |
-| [invariantd-site](https://github.com/copyleftdev/invariantd-site) | Marketing site for invariantd.com — video-first landing | $\texttt{HTML}$ | 2026-07-15 |
-| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-07-15 |
-| [pipeflow](https://github.com/copyleftdev/pipeflow) | — | $\texttt{Python}$ | 2026-07-14 |
-| [kilocheck](https://github.com/copyleftdev/kilocheck) | Local-first deterministic IP intelligence CLI with auditable evidence and policy-grade JSON | $\texttt{Rust}$ | 2026-07-13 |
-| [claimzen-site](https://github.com/copyleftdev/claimzen-site) | ClaimZen — evidence-backed denial recovery. Marketing site. | $\texttt{HTML}$ | 2026-07-13 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-22 |
+| [vulngraph-cli](https://github.com/copyleftdev/vulngraph-cli) | Focused, offline-first vulnerability intelligence CLI — CVE & package-version checks with… | $\texttt{Rust}$ | 2026-07-21 |
+| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-07-21 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-07-21 |
+| [runs-on-compute](https://github.com/copyleftdev/runs-on-compute) | A curated, living directory of open-source AI tools that run on inference — and how to fund… | $\texttt{Python}$ | 2026-07-21 |
+| [cosaci](https://github.com/copyleftdev/cosaci) | Distributed attested CI mesh — property-tested at every layer | $\texttt{Rust}$ | 2026-07-20 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
