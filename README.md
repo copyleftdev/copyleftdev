@@ -64,10 +64,10 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-22 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-23 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-07-22 |
 | [vulngraph-cli](https://github.com/copyleftdev/vulngraph-cli) | Focused, offline-first vulnerability intelligence CLI — CVE & package-version checks with… | $\texttt{Rust}$ | 2026-07-21 |
 | [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-07-21 |
-| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-07-21 |
 | [runs-on-compute](https://github.com/copyleftdev/runs-on-compute) | A curated, living directory of open-source AI tools that run on inference — and how to fund… | $\texttt{Python}$ | 2026-07-21 |
 | [cosaci](https://github.com/copyleftdev/cosaci) | Distributed attested CI mesh — property-tested at every layer | $\texttt{Rust}$ | 2026-07-20 |
 <!--RECENT:END-->
