@@ -64,12 +64,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-27 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-07-28 |
+| [skbx](https://github.com/copyleftdev/skbx) | Agent-first Linux packet-path tracing with Rust/eBPF: bounded evidence, deterministic replay… | $\texttt{Rust}$ | 2026-07-28 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-07-27 |
+| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-07-27 |
 | [taxis-bench](https://github.com/copyleftdev/taxis-bench) | An adversarial certification environment for agentic RPA: does the agent respect its… | $\texttt{TypeScript}$ | 2026-07-26 |
-| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-07-26 |
 | [agent-calc](https://github.com/copyleftdev/agent-calc) | AI-native exact calculator and contract-first Rust CLI for typed JSON math, symbolic… | $\texttt{Rust}$ | 2026-07-25 |
-| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-07-25 |
-| [vulngraph-cli](https://github.com/copyleftdev/vulngraph-cli) | Focused, offline-first vulnerability intelligence CLI — CVE & package-version checks with… | $\texttt{Rust}$ | 2026-07-21 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
