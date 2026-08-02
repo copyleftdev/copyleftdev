@@ -64,12 +64,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-08-01 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-08-02 |
+| [the-shape-of-failure](https://github.com/copyleftdev/the-shape-of-failure) | Executable essay on AI system boundaries, property-based testing, and mutation testing | $\texttt{Python}$ | 2026-08-01 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-08-01 |
+| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-08-01 |
 | [entropyx-survey](https://github.com/copyleftdev/entropyx-survey) | A cartographic browser survey for entropyx: streaming scans over SSE, a printable… | $\texttt{Rust}$ | 2026-07-31 |
-| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-07-31 |
-| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-07-31 |
 | [totp-rfc](https://github.com/copyleftdev/totp-rfc) | Security-hardened, allocation-free no_std HOTP/TOTP for Rust with strict RFC 4226/6238… | $\texttt{Rust}$ | 2026-07-30 |
-| [vajra](https://github.com/copyleftdev/vajra) | Break noise. Preserve truth. A deterministic semantic reduction engine for structured data —… | $\texttt{Rust}$ | 2026-07-30 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
