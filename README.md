@@ -64,11 +64,11 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-08-05 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-08-06 |
 | [poise-rs](https://github.com/copyleftdev/poise-rs) | Composable, rigorously verified load-balancing primitives for Rust | $\texttt{Rust}$ | 2026-08-05 |
+| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-08-05 |
 | [dev-portal-correctly](https://github.com/copyleftdev/dev-portal-correctly) | Specification-first developer portal: modular OpenAPI 3.1 + AsyncAPI 3.1 sharing one domain… | $\texttt{JavaScript}$ | 2026-08-05 |
 | [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-08-04 |
-| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-08-04 |
 | [oxide-ci](https://github.com/copyleftdev/oxide-ci) | A modern, extensible, high-performance CI/CD engine written in Rust. | $\texttt{Rust}$ | 2026-08-03 |
 <!--RECENT:END-->
 
