@@ -64,12 +64,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-08-12 |
-| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-08-11 |
-| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-08-11 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-08-13 |
+| [kahea](https://github.com/copyleftdev/kahea) | OpenAPI testing and deterministic API fuzzing for AI agents—catch contract bugs before unsafe… | $\texttt{Rust}$ | 2026-08-13 |
+| [cistron](https://github.com/copyleftdev/cistron) | A convention-safe genome-variant kernel: normalization + VCF/HGVS/VRS boundaries + liftover… | $\texttt{Rust}$ | 2026-08-13 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-08-12 |
+| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-08-12 |
 | [tlatools-rs](https://github.com/copyleftdev/tlatools-rs) | Ask a TLA+ specification about a state, and get an answer. A parser and evaluator for TLA+ in… | $\texttt{Rust}$ | 2026-08-11 |
-| [poise-rs](https://github.com/copyleftdev/poise-rs) | Composable, rigorously verified load-balancing primitives for Rust | $\texttt{Rust}$ | 2026-08-10 |
-| [skbx](https://github.com/copyleftdev/skbx) | Agent-first Linux packet-path tracing with Rust/eBPF: bounded evidence, deterministic replay… | $\texttt{Rust}$ | 2026-08-10 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
