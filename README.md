@@ -64,12 +64,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-09-01 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | super top secret | $\texttt{JavaScript}$ | 2026-09-02 |
 | [smesh-a2a](https://github.com/copyleftdev/smesh-a2a) | A2A v1 interoperability gateway for decentralized SMESH agent swarms | $\texttt{Rust}$ | 2026-09-01 |
-| [skbx](https://github.com/copyleftdev/skbx) | Agent-first Linux packet-path tracing with Rust/eBPF: bounded evidence, deterministic replay… | $\texttt{Rust}$ | 2026-08-31 |
-| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-08-31 |
-| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-08-31 |
-| [hawaii-influencer-house](https://github.com/copyleftdev/hawaii-influencer-house) | Can a ten-bedroom creator house in Hawaii pay for itself? An exact-arithmetic feasibility… | $\texttt{HTML}$ | 2026-08-30 |
+| [bifrost-editorial](https://github.com/copyleftdev/bifrost-editorial) | — | $\texttt{Python}$ | 2026-09-01 |
+| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-09-01 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-09-01 |
+| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-09-01 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
