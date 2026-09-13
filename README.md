@@ -64,12 +64,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [pegrep](https://github.com/copyleftdev/pegrep) | Text and structural search with readable PEG patterns, typed captures, and JSON output. | $\texttt{Rust}$ | 2026-09-12 |
-| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-09-12 |
-| [tapehound](https://github.com/copyleftdev/tapehound) | High-performance Kalshi venue scanner: liquid markets, whale fills, live SSE stream. Rust… | $\texttt{Rust}$ | 2026-09-12 |
-| [smesh-a2a](https://github.com/copyleftdev/smesh-a2a) | A2A v1 interoperability gateway for decentralized SMESH agent swarms | $\texttt{Rust}$ | 2026-09-12 |
-| [kahea](https://github.com/copyleftdev/kahea) | OpenAPI testing and deterministic API fuzzing for AI agents—catch contract bugs before unsafe… | $\texttt{Rust}$ | 2026-09-11 |
-| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-09-11 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-09-13 |
+| [smesh-a2a](https://github.com/copyleftdev/smesh-a2a) | A2A v1 interoperability gateway for decentralized SMESH agent swarms | $\texttt{Rust}$ | 2026-09-13 |
+| [devto-mcp](https://github.com/copyleftdev/devto-mcp) | An MCP server for authorship on dev.to, with the platform's real rules built in — offline… | $\texttt{Rust}$ | 2026-09-12 |
+| [lotto-vs-kalshi](https://github.com/copyleftdev/lotto-vs-kalshi) | The $20 Question: exact-math essay on why spreading $20 across 0.1¢ prediction-market… | $\texttt{—}$ | 2026-09-12 |
+| [interview-with-a-binary-media](https://github.com/copyleftdev/interview-with-a-binary-media) | Media for I Interviewed an Executable. It Had Notes. — cover art, replay stills, and video. No… | $\texttt{—}$ | 2026-09-12 |
+| [zero-tokens](https://github.com/copyleftdev/zero-tokens) | avoid metered tokens | $\texttt{—}$ | 2026-09-12 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
