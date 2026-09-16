@@ -64,12 +64,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-09-15 |
-| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-09-14 |
-| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-09-14 |
-| [devto-mcp](https://github.com/copyleftdev/devto-mcp) | An MCP server for authorship on dev.to, with the platform's real rules built in — offline… | $\texttt{Rust}$ | 2026-09-14 |
-| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-09-14 |
-| [smesh-a2a](https://github.com/copyleftdev/smesh-a2a) | A2A v1 interoperability gateway for decentralized SMESH agent swarms | $\texttt{Rust}$ | 2026-09-13 |
+| [skillexec](https://github.com/copyleftdev/skillexec) | A binary container format for agent skills: SKILL.md compiled into a signed, mmap-able, lazily… | $\texttt{Rust}$ | 2026-09-16 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-09-16 |
+| [superforecasting-skills-pack](https://github.com/copyleftdev/superforecasting-skills-pack) | Thirteen research-attributed forecasting skills for Claude — Brier scoring, calibration… | $\texttt{Python}$ | 2026-09-16 |
+| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-09-15 |
+| [execution-evidence-lab](https://github.com/copyleftdev/execution-evidence-lab) | A native Linux backup lab with independent verification, eBPF probes, CPU sampling, packet… | $\texttt{Python}$ | 2026-09-15 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-09-15 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
