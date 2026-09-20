@@ -64,12 +64,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-09-19 |
-| [does-the-grid-bind](https://github.com/copyleftdev/does-the-grid-bind) | Does the grid bind? An invariant audit of the AI energization gap — the conclusion is ~80%… | $\texttt{Python}$ | 2026-09-18 |
-| [kahea](https://github.com/copyleftdev/kahea) | OpenAPI testing and deterministic API fuzzing for AI agents—catch contract bugs before unsafe… | $\texttt{Rust}$ | 2026-09-18 |
-| [smesh-a2a](https://github.com/copyleftdev/smesh-a2a) | A2A v1 interoperability gateway for decentralized SMESH agent swarms | $\texttt{Rust}$ | 2026-09-18 |
-| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-09-18 |
-| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-09-18 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-09-20 |
+| [ember](https://github.com/copyleftdev/ember) | Two Jev agents fight over a cold-chain pharmacy grid. The attacker's whole advantage turned… | $\texttt{TypeScript}$ | 2026-09-20 |
+| [kalshi-kernel](https://github.com/copyleftdev/kalshi-kernel) | Unofficial safety-focused MCP kernel for Kalshi market workflows | $\texttt{Go}$ | 2026-09-19 |
+| [jev-labs](https://github.com/copyleftdev/jev-labs) | Never confidently wrong: a TLA+-verified consensus kernel around TypeSafe's Jev, run through… | $\texttt{Python}$ | 2026-09-19 |
+| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-09-19 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-09-19 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
