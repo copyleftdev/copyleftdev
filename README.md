@@ -64,12 +64,12 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-10-19 |
-| [braess-router](https://github.com/copyleftdev/braess-router) | Bounded semantic routing with Jev and Poise. Rust, single-server, alpha. | $\texttt{Rust}$ | 2026-10-18 |
-| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-10-18 |
-| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-10-18 |
-| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-10-18 |
-| [kahea](https://github.com/copyleftdev/kahea) | OpenAPI testing and deterministic API fuzzing for AI agents—catch contract bugs before unsafe… | $\texttt{Rust}$ | 2026-10-16 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-10-20 |
+| [deflect-rs](https://github.com/copyleftdev/deflect-rs) | Composable, kernel-adjacent DDoS-mitigation primitives in Rust — rate limiting, SYN cookies… | $\texttt{Rust}$ | 2026-10-20 |
+| [poise-rs](https://github.com/copyleftdev/poise-rs) | Composable, rigorously verified load-balancing primitives for Rust | $\texttt{Rust}$ | 2026-10-19 |
+| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-10-19 |
+| [totp-rfc](https://github.com/copyleftdev/totp-rfc) | Security-hardened, allocation-free no_std HOTP/TOTP for Rust with strict RFC 4226/6238… | $\texttt{Rust}$ | 2026-10-19 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-10-19 |
 <!--RECENT:END-->
 
 <sub>This section and the metrics panel above are regenerated nightly by [a stdlib-only Python script](scripts/generate_profile.py) querying the GitHub API — no third-party stats services, nothing to go stale.</sub>
