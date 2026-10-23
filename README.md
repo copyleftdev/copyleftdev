@@ -64,10 +64,10 @@ I care about software that is small, correct, and observable. If it can't be dep
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-10-22 |
-| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-10-21 |
-| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-10-21 |
-| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-10-21 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-10-23 |
+| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-10-22 |
+| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-10-22 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-10-22 |
 | [deflect-rs](https://github.com/copyleftdev/deflect-rs) | Composable, kernel-adjacent DDoS-mitigation primitives in Rust — rate limiting, SYN cookies… | $\texttt{Rust}$ | 2026-10-20 |
 | [poise-rs](https://github.com/copyleftdev/poise-rs) | Composable, rigorously verified load-balancing primitives for Rust | $\texttt{Rust}$ | 2026-10-19 |
 <!--RECENT:END-->
