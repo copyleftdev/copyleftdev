@@ -4,52 +4,54 @@
   <img src="assets/header.svg" width="100%" alt="copyleftdev"/>
 </picture>
 
-<h3 align="center">Tip my tokens</h3>
-<p align="center">Fund the compute behind my open source — every tip becomes AI inference credit I can spend on any model.</p>
-
+<h2 align="center">A vibe is not a verdict.</h2>
 <p align="center">
-  <a href="https://tokentip.to/@copyleftdev">
-    <img alt="Tip tokens to @copyleftdev" height="42"
-         src="https://tokentip.to/badge/copyleftdev.svg?style=for-the-badge&logo=1">
-  </a>
+  Models write fluent code and confident answers. Fluent isn't proven.<br/>
+  I build the deterministic tools that check — exact math, formal specifications, reproducible evidence —<br/>
+  so what an AI produced can be verified instead of trusted.
 </p>
 
 <p align="center">
-  <a href="https://tokentip.to/@copyleftdev">
-    <img alt="Scan to tip @copyleftdev" width="150"
-         src="https://tokentip.to/qr/copyleftdev.svg">
-  </a>
+  <a href="https://copyleftdev.github.io">copyleftdev.github.io</a> ·
+  <a href="https://dev.to/copyleftdev">dev.to</a> ·
+  <a href="https://www.linkedin.com/in/donscv/">linkedin</a> ·
+  <a href="mailto:don@codetestcode.io">don@codetestcode.io</a>
 </p>
 
 ---
 
-> [!NOTE]
-> I build sharp, single-purpose tools — mostly in Rust and Zig, sometimes in Go or Python.
-> Security scanners, developer utilities, AI infrastructure, and the occasional absurd experiment.
-> On GitHub since 2008. Everything ships.
+## Flagship: [tlatools-rs](https://github.com/copyleftdev/tlatools-rs)
 
-[gitmesh.app](https://www.gitmesh.app/) · [don@codetestcode.io](mailto:don@codetestcode.io) · [linkedin](https://www.linkedin.com/in/donscv/)
+**Ask a TLA+ specification about a state, and get an answer.** A parser and evaluator for TLA+ in Rust — not a model checker. Hand it a trace from production or a step from your implementation, and it tells you whether the spec permits it, and *which conjunct* refused it.
+
+```console
+$ tlatools check job.json
+no action of the specification takes [...] to [...]. The closest was
+`BecomeLeader(c = "s1")`, which was not available here:
+`Cardinality(votesGranted[c]) * 2 > Cardinality(Server)` does not hold
+(3 of its 4 conjuncts hold)
+```
+
+Reads **1,256 of 1,258** specifications across three public TLA+ corpora; the two it rejects, SANY rejects too. No JVM. [`cargo install tlatools`](https://crates.io/crates/tlatools)
+
+## The same idea, applied elsewhere
+
+| Repository | What it makes checkable |
+|:-----------|:------------------------|
+| [agent-calc](https://github.com/copyleftdev/agent-calc) | An agent's arithmetic — exact, typed JSON math instead of a model's guess at a number |
+| [solve-score](https://github.com/copyleftdev/solve-score) | Exploit-difficulty scoring — an independent SOLVE v0.5 implementation that reproduces all 16 published calibration assessments |
+| [anomalyx](https://github.com/copyleftdev/anomalyx) | Anomaly claims — contract-first detection across ~30 log, network and data formats; deterministic, mutation-tested |
+| [whatthediff](https://github.com/copyleftdev/whatthediff) | Drift across N files — consensus, outliers and variant families, every finding backed by evidence |
+| [entropyx](https://github.com/copyleftdev/entropyx) | A codebase's history — a forensic instrument for who changed what, how, and how it is holding up |
+| [vajra](https://github.com/copyleftdev/vajra) | Structured data — deterministic reduction that breaks the noise and preserves what's true |
+
+**Writing on it:** [Vibe Coding with Intent](https://dev.to/copyleftdev/vibe-coding-with-intent-a-testers-perspective-3f5d) · [Vibe Was Never the Problem](https://dev.to/copyleftdev/vibe-was-never-the-problem-the-missing-half-of-vibe-coding-50mi) · [A Vibe Is Not a Verdict](https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe)
 
 ---
 
 ## About
 
-I'm a systems-level software engineer focused on security tooling, developer infrastructure, and AI-native systems.
-Most of my work lives at the intersection of offensive security, protocol engineering, and CLI design — shipping single-binary tools with minimal dependencies that solve one problem well.
-
-- **Security research** — network beacon detection, distributed scanners, web fuzzers, OSINT frameworks, and supply-chain forensics
-- **Developer tools** — self-hosted tunnel servers, webhook inspectors, deterministic crawlers, and CI/CD automation
-- **AI infrastructure** — Model Context Protocol (MCP) servers, multi-agent coordination protocols, and DSLs for composable AI systems
-- **Systems programming** — Rust-first, with production work in Zig, Go, Python, TypeScript, and Nim
-- **Open source** — 40+ original public tools, all designed to be auditable and forkable
-
-I care about software that is small, correct, and observable. If it can't be deployed with `scp` and run without a runtime, it's probably too complicated.
-
----
-
-## Languages & Tools
-
-<kbd>Rust</kbd> <kbd>Zig</kbd> <kbd>Go</kbd> <kbd>Python</kbd> <kbd>TypeScript</kbd> <kbd>Nim</kbd> <kbd>Shell</kbd> <kbd>Docker</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>SQLite</kbd>
+Systems engineer on GitHub since 2008, Rust-first with production work in Zig, Go, Python and TypeScript. My background is testing and security research, which is where the habit comes from: a claim isn't done until something other than its author can check it. Everything ships as a small single binary with minimal dependencies, and the gate is mutation testing, not coverage.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.svg"/>
@@ -76,14 +78,14 @@ I care about software that is small, correct, and observable. If it can't be dep
 
 ---
 
-## Selected Repositories
+<details>
+<summary><b>Everything else</b> — security tooling, systems utilities, agent infrastructure, and the absurd</summary>
 
 ### Security & Detection
 
 | Repository | Description | Language |
 |:-----------|:------------|:--------:|
 | [floq](https://github.com/copyleftdev/floq) | C2 beacon detection via Floquet spectral analysis — pcap, live capture, or OTLP; 274 KB binary | $\texttt{Zig}$ |
-| [anomalyx](https://github.com/copyleftdev/anomalyx) | Contract-first anomaly detection across ~30 formats — logs, pcap, OTLP; deterministic CLI | $\texttt{Rust}$ |
 | [fatt](https://github.com/copyleftdev/fatt) | Distributed async scanner for exposed files across millions of domains | $\texttt{Rust}$ |
 | [fuf](https://github.com/copyleftdev/fuf) | Fast next-generation web fuzzer | $\texttt{Rust}$ |
 | [robin-smesh](https://github.com/copyleftdev/robin-smesh) | Decentralized dark web OSINT framework — Tor crawling, artifact extraction | $\texttt{Rust}$ |
@@ -105,8 +107,6 @@ I care about software that is small, correct, and observable. If it can't be dep
 | Repository | Description | Language |
 |:-----------|:------------|:--------:|
 | [smesh-rust](https://github.com/copyleftdev/smesh-rust) | Decentralized coordination protocol for multi-agent LLM systems — QUIC P2P, sub-µs signal diffusion | $\texttt{Rust}$ |
-| [vajra](https://github.com/copyleftdev/vajra) | Deterministic semantic reduction engine for structured data — break noise, preserve truth | $\texttt{Rust}$ |
-| [agent-calc](https://github.com/copyleftdev/agent-calc) | AI-native exact calculator — typed JSON math, symbolic reasoning, mutation-tested | $\texttt{Rust}$ |
 | [sigmos](https://github.com/copyleftdev/sigmos) | DSL for defining AI-native, composable, reactive systems | $\texttt{Rust}$ |
 | [mcp-flow](https://github.com/copyleftdev/mcp-flow) | WebTransport binding for MCP — QUIC streams, no head-of-line blocking | $\texttt{Multi}$ |
 | [toon-zig](https://github.com/copyleftdev/toon-zig) | TOON (Token-Oriented Object Notation) — 30–60% token reduction for LLMs | $\texttt{Zig}$ |
@@ -122,7 +122,18 @@ I care about software that is small, correct, and observable. If it can't be dep
 | [fafoaas](https://github.com/copyleftdev/fafoaas) | FAFO as a Service — spec-first engineering masterclass; AsyncAPI 3 + MCP, 98/98 mutation score | $\texttt{TS}$ |
 | [tip-to-tip-efficiency](https://github.com/copyleftdev/tip-to-tip-efficiency) | Mathematically serious crate for a deeply unserious Silicon Valley efficiency empire | $\texttt{Rust}$ |
 
+</details>
+
 ---
+
+<p align="center">
+  If any of this saved you time, you can fund the compute behind it — tips become AI inference credit.<br/>
+  <a href="https://tokentip.to/@copyleftdev">
+    <img alt="Tip tokens to @copyleftdev" height="32"
+         src="https://tokentip.to/badge/copyleftdev.svg?style=for-the-badge&logo=1">
+  </a>
+  · <a href="https://www.gitmesh.app/">gitmesh.app</a>
+</p>
 
 <a href="https://gitroll.io/profile/uB8fjxzB4NHUkjkK1pggNJbWLqz93">
   <picture>
@@ -135,4 +146,3 @@ I care about software that is small, correct, and observable. If it can't be dep
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/copyleftdev/copyleftdev/output/github-snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/copyleftdev/copyleftdev/output/github-snake.svg" alt="contribution snake" width="100%"/>
 </picture>
-

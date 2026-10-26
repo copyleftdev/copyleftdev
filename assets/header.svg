@@ -17,12 +17,16 @@
     <animate attributeName="x2" from="100" to="400" dur="1.4s" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1" fill="freeze"/>
   </line>
 
-  <text x="100" y="72" fill="#e6edf3" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="42" font-weight="700" letter-spacing="2">
+  <text x="100" y="62" fill="#e6edf3" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="42" font-weight="700" letter-spacing="2">
     copyleftdev
   </text>
 
-  <text x="100" y="108" fill="#8b949e" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="14" letter-spacing="3">
-    systems &amp; security &amp; tools
+  <text x="100" y="92" fill="#c9d1d9" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="18" letter-spacing="1">
+    Don Johnson
+  </text>
+
+  <text x="100" y="116" fill="#8b949e" font-family="'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace" font-size="14" letter-spacing="3">
+    deterministic tools that verify what AI produces
   </text>
 
   <rect x="100" y="130" width="6" height="6" rx="1" fill="#58a6ff">
