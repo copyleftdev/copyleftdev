@@ -66,11 +66,11 @@ Systems engineer on GitHub since 2008, Rust-first with production work in Zig, G
 <!--RECENT:START-->
 | Repository | Description | Lang | Last push |
 |:-----------|:------------|:----:|:----------|
-| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-11-15 |
+| [leet-index](https://github.com/copyleftdev/leet-index) | Activity-aware rankings for US-based GitHub developers, with transparent scoring and… | $\texttt{JavaScript}$ | 2026-11-16 |
+| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-11-15 |
+| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-11-15 |
+| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-11-15 |
 | [kalshi-kernel](https://github.com/copyleftdev/kalshi-kernel) | Unofficial safety-focused MCP kernel for Kalshi market workflows | $\texttt{Go}$ | 2026-11-14 |
-| [copyleftdev.github.io](https://github.com/copyleftdev/copyleftdev.github.io) | Canonical, self-regenerating identity page for copyleftdev — schema.org Person, llms.txt, and… | $\texttt{HTML}$ | 2026-11-14 |
-| [kilo-data](https://github.com/copyleftdev/kilo-data) | Open threat-intelligence and IP-reputation ETL for phishing and abuse screening, with BGP and… | $\texttt{Rust}$ | 2026-11-14 |
-| [vulngraph-data](https://github.com/copyleftdev/vulngraph-data) | Deterministic data pipeline for VulnGraph — ingests 11 vulnerability sources, publishes… | $\texttt{Rust}$ | 2026-11-14 |
 | [overpunch-rx](https://github.com/copyleftdev/overpunch-rx) | Fast, allocation-free Rust library for signed overpunch and zoned decimal encoding/decoding.… | $\texttt{Rust}$ | 2026-11-11 |
 <!--RECENT:END-->
 
